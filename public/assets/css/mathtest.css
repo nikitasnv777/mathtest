@@ -1,0 +1,26 @@
+div.checkboxslist div.panel-body {
+	padding: 8px 12px 8px 12px;
+	min-height: 183px;
+	overflow-y: scroll;
+}
+
+div.checkboxslist div.panel-body p {
+	margin: 0;
+}
+
+div.checkboxslist div.panel-body p span {
+	margin-left: 4px;
+}
+
+div.editcontrolls-block {
+	margin-top: -20px;
+}
+
+div.editcontrolls-controlls {
+	margin-top: 20px;
+}
+
+div.editcontrolls-buttons {
+	margin-top: 10px;
+	text-align: right;
+}
